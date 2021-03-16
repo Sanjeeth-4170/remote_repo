@@ -1,5 +1,4 @@
 First line by Dev A
 Line 2 added by Dev B
 second line added by DEV A
-second line added by DEV A
-[A[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[D[D[DThird[3~[3~[3~[C[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~[B
+Third line added by DEV A
